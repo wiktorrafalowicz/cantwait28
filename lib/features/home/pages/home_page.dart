@@ -56,7 +56,7 @@ class _HomePageBody extends StatelessWidget {
                   key: ValueKey(doc.id),
                   background: const DecoratedBox(
                     decoration: BoxDecoration(
-                      color: Colors.red,
+                      color: Colors.blue,
                     ),
                     child: Align(
                       alignment: Alignment.centerRight,
